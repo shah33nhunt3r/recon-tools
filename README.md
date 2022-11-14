@@ -33,9 +33,11 @@ Haktldextract
 Airixss
 Altdns
 Installing Tools
-> git clone https://github.com/D1rk9ghT/Recon.git
+> git clone https://github.com/shah33nhunt3r/recon-tools.git
 > cd recon
 > chmod +x recon-tools.sh
 > ./recon-tools.sh
 Run ./recon-tools.sh for update
 
+
+                          -----------Happy hacking with Shah33n-Hunt3r-----------
